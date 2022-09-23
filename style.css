@@ -1,0 +1,23 @@
+body {
+	background: #e612a5;
+	margin: 0;
+	padding: 0;
+}
+
+#banner {
+	width: 100%;
+}
+
+h1 {
+	text-align: center;
+}
+
+.textos {
+	background: white;
+}
+
+p {
+	text-align: center;
+}
+
+
