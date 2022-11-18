@@ -6,26 +6,18 @@ nav li {
 	padding-right: 5%;
 }
 
-<<<<<<< HEAD
 nav {
 	width: 940px;
 
 }
 
-nav a{
+nav a {
 	font-weight: lighter;
 	font-size: 35px;
 	text-decoration: none;
 	color: chocolate;
 }
 
-=======
-nav {
-	width: 940px;
-	
-}
-
->>>>>>> 382eff6c2df8729d20f66dbc37265ce32f172226
 body {
 	background: #00b5c2;
 	margin: 0;
