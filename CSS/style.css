@@ -18,6 +18,11 @@ nav a {
 	color: chocolate;
 }
 
+nav a:hover {
+	color: red;
+	text-decoration: underline;
+}
+
 body {
 	background: #00b5c2;
 	margin: 0;
